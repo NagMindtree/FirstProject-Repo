@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hellooo This is lakshmi.
+Today is Sunday.
+=======
+Hellooo This is lakshmi.
+>>>>>>> 71e99af587e4e29fca5f95a573852752462700e4
